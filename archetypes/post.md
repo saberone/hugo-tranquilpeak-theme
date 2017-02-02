@@ -1,6 +1,7 @@
 ---
 title: "New Post"
-date: 2015-05-28
+date: ""
+draft: true
 categories:
 - category
 - subcategory
@@ -9,6 +10,7 @@ tags:
 - tag2
 keywords:
 - tech
+- software development
 #thumbnailImage: //example.com/image.jpg
 ---
 
