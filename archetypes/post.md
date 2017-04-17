@@ -14,4 +14,4 @@ keywords:
 #thumbnailImage: //example.com/image.jpg
 ---
 
-<!-- more /-->
+<!--more-->
